@@ -4,7 +4,7 @@ import { useState } from 'react';
 const D = {
   brand: 'SQTOTO',
   domain: 'sqtotowap.com',
-  logo: 'https://i.imgur.com/QZCqvgJ.png',
+  logo: 'https://ik.imagekit.io/md2fquuug/sq_pp.png?updatedAt=1776587261234',
   linkLogin: 'https://loginwap.gelapsekali.com/sq',
   linkDaftar: 'https://daftarwap.gelapsekali.com/sq',
   amphtml: 'sqtotowap.com',
